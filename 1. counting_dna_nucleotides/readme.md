@@ -25,8 +25,10 @@ For example, Figure 2 shows a strand of deoxyribose nucleic acid (DNA), in which
 
 For reasons we will soon see, DNA is found in all living organisms on Earth, including bacteria; it is even found in many viruses (which are often considered to be nonliving). Because of its importance, we reserve the term genome to refer to the sum total of the DNA contained in an organism's chromosomes.
 
-![](./cell.jpg)
+![](./figure_1.jpg)
+
 Figure 1. A 1900 drawing by Edmund Wilson of onion cells at different stages of mitosis. The sample has been dyed, causing chromatin in the cells (which soaks up the dye) to appear in greater contrast to the rest of the cell.
 
-![](./DNA_chemical_structure.thumb.png)
+![](./figure_2.jpg)
+
 Figure 2. A sketch of DNA's primary structure.

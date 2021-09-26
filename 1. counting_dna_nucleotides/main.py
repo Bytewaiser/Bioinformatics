@@ -1,9 +1,9 @@
 from collections import Counter
 
 with open ("data.txt", "r") as f:
-    arr = f.read()
+    string = f.read()
 
-def return_counts(arr):
-    counts = Counter(arr)
+def return_counts(string):
+    counts = Counter(string)
     return f"{counts['A']} {counts['C']} {counts['G']} {counts['T']}"
-print(return_counts(arr))
+print(return_counts(string))
